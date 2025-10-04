@@ -92,3 +92,4 @@ Pricing strategy
 Reader engagement (reviews & ratings)
 
 It also demonstrates practical use of pandas groupby, pivot tables, correlation analysis, and visualization to answer real-world data questions.
+# amazon-best-sellers-analysis
